@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d918646b-7543-469d-9fbb-3f05eef66bc2" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="d918646b-7543-469d-9fbb-3f05eef66bc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/week13/.ipynb_checkpoints/dimensionality_reduction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/.ipynb_checkpoints/dimensionality_reduction-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week13/k-means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/k-means.ipynb" afterDir="false" />
+    </list>
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/au_ml18$handin4.coverage" NAME="handin4 Coverage Results" MODIFIED="1543588539811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handin4" />
     <SUITE FILE_PATH="coverage/au_ml18$au_ml18.coverage" NAME="au_ml18 Coverage Results" MODIFIED="1543164622975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+=======
+    <SUITE FILE_PATH="coverage/au_ml18$au_ml18.coverage" NAME="au_ml18 Coverage Results" MODIFIED="1543230775232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="564252805">
@@ -47,6 +60,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/handin4/handin4.py">
@@ -79,6 +93,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,9 +110,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" />
         <option value="$PROJECT_DIR$/week13/k-means.ipynb" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/handin4/handin4.py" />
+=======
+        <option value="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
       </list>
     </option>
   </component>
@@ -105,10 +125,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="2560" />
     <option name="y" value="27" />
     <option name="width" value="2560" />
+=======
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -181,7 +209,6 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
-      <method v="2" />
     </configuration>
     <configuration name="handin4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="au_ml18" />
@@ -229,6 +256,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="2560" y="27" width="2560" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -238,9 +266,27 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32216215" />
+=======
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21895425" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15989584" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -253,6 +299,13 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32975337" />
       <window_info anchor="right" id="Database" order="4" />
+=======
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +379,23 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/week13/k-means.ipynb">
+<<<<<<< HEAD
+=======
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week13/dimensionality_reduction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week13/dimensionality_reduction.ipynb">
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="15" />
@@ -335,7 +405,11 @@
     <entry file="file://$PROJECT_DIR$/week13/dimensionality_reduction.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
+<<<<<<< HEAD
           <selected id="3" />
+=======
+          <selected id="0" />
+>>>>>>> b85428884f31708a1dcd19b57c5f01ddf4a5de87
         </state>
       </provider>
     </entry>

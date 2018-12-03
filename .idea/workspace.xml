@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d918646b-7543-469d-9fbb-3f05eef66bc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week13/.ipynb_checkpoints/dimensionality_reduction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/.ipynb_checkpoints/dimensionality_reduction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/dimensionality_reduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week13/k-means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week13/k-means.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="d918646b-7543-469d-9fbb-3f05eef66bc2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
